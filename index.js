@@ -12,7 +12,7 @@ app.use(express.json()); // converter as info para json
 app.set("view engine", "ejs"); // faz com que o express reconheça o ejs como motor de visualização
 app.use(express.static(path.join(__dirname, "public")));
 
-const port = 3005;
+const port = process.env.port || 3005;
 app.listen(port, () => {
   //listen é uma função do express para criar servidor
   console.log(`Rodando na porta ${port} `);
