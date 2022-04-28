@@ -18,6 +18,6 @@ As ferramentas usadas para este projeto são:
 ## contato
 
 <a href="https://www.linkedin.com/in/robson-dos-reis-319327234" target="blank" 
-rel="noopener">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.
+rel="noopener"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.
 svg?style=for-the-badge&logo=linkedin&logoColor=white)<a>
 
